@@ -1,6 +1,7 @@
 # github-deskstop-practice
 github-deskstop-practice
 
+<<<<<<< HEAD
 hi
 
 this for commit change 
@@ -13,3 +14,4 @@ for a project
 helloo 
 
 say i am here and then save
+
